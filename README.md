@@ -1,4 +1,4 @@
-Password-gen
+##Password-gen
 
 ## Installation
 
