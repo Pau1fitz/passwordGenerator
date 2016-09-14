@@ -1,11 +1,19 @@
 {
   "name": "password-gen",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Paul Fitzgerald",
-  "license": "MIT"
+  "repository": "Pau1fitz/passwordGenerator",
+  "author": {
+    "name": "Paul Fitzgerald",
+    "email": "paulfitz99@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Pau1fitz/passwordGenerator.git"
+  }
 }

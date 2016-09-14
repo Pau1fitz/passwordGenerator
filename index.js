@@ -1,4 +1,5 @@
-const combination = 'abcdefghijklmnopqrstuvwxyz123456789';
+'use strict';
+const combination = 'abcdefghijklmnopqrstuvwxyz123456789!@#$%^&*()';
 const password = '';
 
 module.exports.generatePassword = function(length) {
