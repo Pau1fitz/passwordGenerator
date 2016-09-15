@@ -2,7 +2,7 @@
 const combination = 'abcdefghijklmnopqrstuvwxyz123456789!@#$%^&*()';
 const password = '';
 
-module.exports.generatePassword = function(length) {
+module.exports = function(length) {
 	if (!length) {
 		length = 8;
 	}
