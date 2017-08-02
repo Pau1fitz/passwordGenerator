@@ -16,5 +16,5 @@
   var password = passwordGen(10);
   console.log(password);
 ```
-##License
+## License
 WTFPL License
